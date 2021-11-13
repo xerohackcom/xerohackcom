@@ -2,7 +2,7 @@
 
 ### *Advance Cyber Security solutions for everyone!*
 
-### Check out our products & services at [XeroHack Website](https://xerohack.com/)
+### Check out [XeroHack Website](https://xerohack.com/)
 
 <img align="left" width="430" height="auto" alt="malwaredllc's github stats" src="https://github-readme-stats.vercel.app/api?username=xerohackcom&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
 
